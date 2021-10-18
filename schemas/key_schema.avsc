@@ -1,0 +1,11 @@
+{
+  "fields": [
+    {
+      "name": "id",
+      "type": "long"
+    }
+  ],
+  "name": "Tweeter",
+  "namespace": "com.tweets.avro",
+  "type": "record"
+}
