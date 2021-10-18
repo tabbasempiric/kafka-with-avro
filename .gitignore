@@ -109,8 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-./ccloud_config.txt
-./twitter_config.txt
+ccloud_config.txt
+twitter_config.txt
 
 # Spyder project settings
 .spyderproject
